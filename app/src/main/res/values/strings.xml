@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">crud-usuarios</string>
+    <string name="senha">Senha</string>
+    <string name="crud">CRUD</string>
+    <string name="inserir">INSERIR</string>
+    <string name="editar">EDITAR</string>
+    <string name="remover">REMOVER</string>
+    <string name="listar_usu_rios">Listar Usuários</string>
+</resources>
